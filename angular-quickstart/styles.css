@@ -12,3 +12,7 @@ h2, h3 {
 body {
   margin: 2em;
 }
+body, input[text], botton {
+  color: #888;
+  font-family: Cambria, Georgia;
+}
